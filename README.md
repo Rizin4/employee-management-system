@@ -1,7 +1,8 @@
 ```markdown
 # Employee Management System
 
-A simple JavaScript-based employee management system for learning purposes. This project demonstrates basic DOM manipulation, array methods, and JavaScript functions.
+A simple JavaScript-based employee management system for learning purposes.
+This project demonstrates basic DOM manipulation, array methods, and JavaScript functions.
 
 ## Features
 
